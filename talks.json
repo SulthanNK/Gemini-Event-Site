@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of JavaScript Frameworks",
+    "speakers": ["Jane Doe"],
+    "category": ["JavaScript", "Web Development"],
+    "duration": 60,
+    "description": "A deep dive into the latest trends in JavaScript frameworks, comparing the pros and cons of React, Vue, and Svelte."
+  },
+  {
+    "title": "Building Scalable APIs with Node.js",
+    "speakers": ["John Smith"],
+    "category": ["Node.js", "Backend"],
+    "duration": 60,
+    "description": "Learn how to design and build robust and scalable APIs using Node.js and Express, with a focus on performance and security."
+  },
+  {
+    "title": "Introduction to Machine Learning with Python",
+    "speakers": ["Emily Jones", "David Williams"],
+    "category": ["Machine Learning", "Python", "AI"],
+    "duration": 60,
+    "description": "An introductory session on the fundamentals of machine learning using Python's most popular libraries like Scikit-learn and TensorFlow."
+  },
+  {
+    "title": "Mastering CSS Grid and Flexbox",
+    "speakers": ["Chris Green"],
+    "category": ["CSS", "Frontend", "Web Design"],
+    "duration": 60,
+    "description": "Take your CSS skills to the next level by mastering modern layout techniques with Grid and Flexbox. We will build complex responsive layouts from scratch."
+  },
+  {
+    "title": "DevOps for Dummies: CI/CD Pipelines Explained",
+    "speakers": ["Maria Garcia"],
+    "category": ["DevOps", "CI/CD"],
+    "duration": 60,
+    "description": "A beginner-friendly guide to understanding and implementing Continuous Integration and Continuous Deployment pipelines using popular tools like Jenkins and GitHub Actions."
+  },
+  {
+    "title": "The Art of Debugging",
+    "speakers": ["Alex Johnson", "Sam Brown"],
+    "category": ["Debugging", "Software Engineering"],
+    "duration": 60,
+    "description": "Learn effective strategies and tools for debugging complex applications. This talk covers everything from browser dev tools to advanced backend debugging techniques."
+  }
+]
